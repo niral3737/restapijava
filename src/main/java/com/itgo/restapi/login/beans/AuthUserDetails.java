@@ -2,6 +2,7 @@ package com.itgo.restapi.login.beans;
 
 import java.security.Principal;
 
+// AUth user
 public class AuthUserDetails implements Principal
 {
    private String email;
